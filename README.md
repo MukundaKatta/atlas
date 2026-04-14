@@ -1,6 +1,6 @@
 # atlas — Cloud Cost Intelligence. Cloud cost intelligence
 
-Cloud Cost Intelligence. Cloud cost intelligence. atlas gives you a focused, inspectable implementation of that idea.
+Cloud Cost Intelligence. Cloud cost intelligence.
 
 ## Why atlas
 
