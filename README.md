@@ -1,56 +1,28 @@
-# 🔱 Atlas — Cloud Cost Intelligence
+# atlas — Cloud Cost Intelligence. Cloud cost intelligence
 
-> **Greek Mythology**: Titan Bearer | Cloud cost intelligence
+Cloud Cost Intelligence. Cloud cost intelligence. atlas gives you a focused, inspectable implementation of that idea.
 
-[![GitHub Pages](https://img.shields.io/badge/🌐_Live_Demo-Visit_Site-blue?style=for-the-badge)](https://MukundaKatta.github.io/atlas/)
-[![GitHub](https://img.shields.io/github/license/MukundaKatta/atlas?style=flat-square)](LICENSE)
-[![Stars](https://img.shields.io/github/stars/MukundaKatta/atlas?style=flat-square)](https://github.com/MukundaKatta/atlas/stargazers)
+## Why atlas
 
-## 🚀 Overview
+atlas exists to make this workflow practical. Cloud cost intelligence. cloud cost intelligence. It favours a small, inspectable surface over sprawling configuration.
 
-Cloud cost intelligence
+## How It Works
 
-**Tech Stack:** Python, TypeScript
+The code is organised as a focused, single-purpose module with a clear entry point and minimal ceremony.
 
-## 📦 Quick Start
+## Getting Started
 
-```bash
-git clone https://github.com/MukundaKatta/atlas.git
-cd atlas
-# Follow setup instructions below
-```
+Clone the repository and inspect the source to see how to run it.
 
-## 🏗️ Project Structure
+## Usage
+
+See the source files and entry points for concrete usage patterns.
+
+## Project Structure
 
 ```
 atlas/
-├── README.md
-├── LICENSE
 ├── CLAUDE.md
-├── .gitignore
-├── src/
-│   ├── main.py
-│   ├── config.py
-│   └── utils.py
-├── tests/
-│   └── test_main.py
-├── docs/
-│   └── architecture.md
-├── examples/
-│   └── basic_usage.py
-└── .github/
-    └── workflows/
-        └── static.yml
+├── LICENSE
+├── README.md
 ```
-
-## 🌐 Live Demo
-
-Visit the landing page: **https://MukundaKatta.github.io/atlas/**
-
-## 📄 License
-
-MIT License — © 2026 Officethree Technologies
-
-## 🔱 Part of the Mythological Portfolio
-
-This is project **#atlas** in the [100-project Mythological Portfolio](https://github.com/MukundaKatta) by Officethree Technologies.
